@@ -47,7 +47,7 @@ I'm passionate about empowering others to bring their ideas to life through thou
 ## Get In Touch
 
 📧 Let's collaborate  
-🌐 [Visit my portfolio](https://www.sierracs.studio)  
+🌐 [Visit SierraCS Studio](https://www.sierracs.studio)  
 💼 [Connect on LinkedIn](https://www.linkedin.com/in/sierrastep)
 
 ---
