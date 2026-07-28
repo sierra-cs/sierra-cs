@@ -48,7 +48,9 @@ I'm passionate about empowering others to bring their ideas to life through thou
 ## Get In Touch
 
 📧 sierracs.studio@gmail.com  
-🌐 [Visit SierraCS Studio](https://www.sierracs.studio)  
+🌐 [Visit SierraCS Studio](
+https://sierra-cs.github.io/portfolio/
+)  
 💼 Open to front-end developer opportunities
 
 ---
